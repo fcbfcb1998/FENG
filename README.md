@@ -1,4 +1,4 @@
-# FENG
+# Automatic Information Retrieval and Semantic Extraction System of Exchange Rate Fluctuation
 Guided Study(AI in FinTech)
 This is the CS6534 Guided Study project file.Anyone can use it for learning but not for commercial purposes.
 
